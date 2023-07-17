@@ -1,0 +1,15 @@
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\bin\Debug\net6.0\FlyWeight.exe
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\bin\Debug\net6.0\FlyWeight.deps.json
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\bin\Debug\net6.0\FlyWeight.runtimeconfig.json
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\bin\Debug\net6.0\FlyWeight.dll
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\bin\Debug\net6.0\FlyWeight.pdb
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.csproj.AssemblyReference.cache
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.AssemblyInfoInputs.cache
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.AssemblyInfo.cs
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.dll
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\refint\FlyWeight.dll
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.pdb
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\FlyWeight.genruntimeconfig.cache
+C:\Users\222224\Desktop\FlyWeight-design-pattern\FlyWeight\obj\Debug\net6.0\ref\FlyWeight.dll
